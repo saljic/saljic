@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I’m Selmir Aljic
 
-<!--
-**saljic/saljic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Software Engineer & Indepentant Contractor
+🧑‍💻 Owner, OCC Software | Based in The Netherlands
 
-Here are some ideas to get you started:
+**Tech Stack:**
+- C#, .NET, Azure
+- Web development, microservices, developer experience
+- Desktop applications, CLI tools, and game development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Beyond Code:**
+- Guitar & accordion player, VR & gaming enthusiast
+- Hands-on with electronics, keyboards, Hanayama puzzles, AI,
+Neovim
+- 👨‍👩‍👦‍👦 Proud father of two boys & husband to a beautifu        ul wife
+
+> _"Wisdom has been chasing me, but I have always been faster."_
